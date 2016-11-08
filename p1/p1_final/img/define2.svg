@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="309px" height="58px" viewBox="0 0 309 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M269.319706,39.6440197 C275.698839,41.1434714 283.079982,42 290.945715,42 C292.312685,42 293.665018,41.9741309 295,41.9235139 C286.223983,38.8052787 280.646752,34.1318943 280.646752,28.9081851 C280.646752,23.4331871 280.646752,21.1561582 280.646752,20.209156 L280.50636,23.4418605 C280.599089,22.6407793 280.646752,21.8259583 280.646752,21 C280.646752,9.39947018 271.241144,0 259.638738,0 L21.0080141,0 C9.39777756,0 6.25277607e-13,9.40202025 6.25277607e-13,21 C6.25277607e-13,32.6005298 9.40560827,42 21.0080141,42 L259.638738,42 C263.131099,42 266.423275,41.1492984 269.319706,39.6440197 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.91372549   0 0 0 0 0.929411765   0 0 0 0 0.952941176  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-57.000000, -167.000000)">
+            <g id="Group-12" transform="translate(63.000000, 171.000000)">
+                <g id="Group-8">
+                    <g id="Oval-1" transform="translate(147.500000, 21.000000) scale(-1, 1) translate(-147.500000, -21.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFD138" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <text id="How-visual-experienc" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                    <tspan x="34.6888986" y="26">How visual experiences become cultural</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

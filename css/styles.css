@@ -1,0 +1,170 @@
+/* Just body stuff */
+html, body {
+	font-family: 'Karla', sans-serif;
+  position: relative;
+  overflow-x: hidden;
+  float: left;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  transition:all 200ms ease-in;
+  -moz-transition:all 200ms ease-in;
+  -webkit-transition: all 200ms ease-in;
+  -o-transition: all 200ms ease-in;
+}
+
+span.highlight {
+	background-color: #ffe1d7;
+}
+
+.journal {
+	display: block;
+	margin: 10em 10em;
+	width: auto;
+	max-width: 550px;
+	height: auto;
+}
+
+.description {
+	font-size: 25pt;
+	color: #0164c9;
+	font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+		color: #0164c9;
+}
+
+a: hover {
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+		color: #0164c9;
+}
+
+
+
+/* Fade In */
+	@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+	@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+	@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+  opacity:0;  /* make things invisible upon start */
+  -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+
+.fade-in.one {
+  -webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+.fade-in.two {
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay:1.2s;
+  animation-delay: 1.2s;
+}
+
+/* SQUARE stuff */
+.square {
+	font-family: 'Karla', sans-serif;
+	font-weight: 700;
+	font-size: 16pt;
+}
+
+.navbutton {
+    position: fixed;
+    z-index: 50;
+    background-color: white;
+		width: 60px;
+		height: 60px;
+		outline: 0;
+		border-width: 0;
+    padding: 0;
+}
+
+.button-topright {
+    top: 0;
+    right: 0;
+}
+.button-topleft{
+    top: 0;
+    left: 0;
+}
+.button-bottomright{
+    bottom: 0;
+    right: 0;
+}
+.button-bottomleft{
+    bottom: 0;
+    left: 0;
+}
+
+p.square {
+	color: #ffe1d7;
+}
+
+/* SQUARE hovering */
+p.square:hover {
+	color: #0164c9;
+}
+
+/* JOURNAL STUFF */
+p.legibility {
+	font-size: 1.1em;
+	line-height: 1.2em;
+}
+
+p.week {
+	line-height: 50%;
+	font-weight: lighter;
+}
+
+p.week-bold {
+	font-weight: 700;
+}
+
+p.week-start {
+	color: gray;
+}
+
+
+/* responsive-stuff idk */
+@media screen and (min-width: 1281px) {
+  .journal {
+    top: 5%;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .journal {
+  	top: 5%;
+  }
+}
+
+@media screen  and (max-width: 979px) /* tablet */ {
+  .journal {
+  	top: 10%;
+  }
+}
+
+@media screen and (max-width: 500px) /* mobile */ {
+	html {
+		font-size: 20px;
+	}

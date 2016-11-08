@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="286px" height="58px" viewBox="0 0 286 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M247.874114,39.4911552 C253.891819,41.0851178 260.913994,42 268.413689,42 C269.674795,42 270.922398,41.9741309 272.153994,41.9235139 C264.057627,38.8052787 258.91232,34.1318943 258.91232,28.9081851 C258.91232,23.4331871 258.91232,21.1561582 258.91232,20.209156 L258.771813,23.4418605 C258.864615,22.6407793 258.91232,21.8259583 258.91232,21 C258.91232,9.39947018 249.512122,0 237.916391,0 L20.9959287,0 C9.40620456,0 1.02318154e-12,9.40202025 1.02318154e-12,21 C1.02318154e-12,32.6005298 9.40019747,42 20.9959287,42 L237.916391,42 C241.51891,42 244.910457,41.0915784 247.874114,39.4911552 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.941176471   0 0 0 0 0.933333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(6.000000, 4.000000)">
+            <g id="Group-14">
+                <g id="Oval-1" transform="translate(136.076997, 21.000000) scale(-1, 1) translate(-136.076997, -21.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#488ED8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="This-system-is-argua" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                    <tspan x="43.5029974" y="25.2">This system is arguably cultural</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

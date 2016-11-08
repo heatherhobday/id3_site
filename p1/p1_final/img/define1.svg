@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="266px" height="59px" viewBox="0 0 266 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M228.820047,40.2218418 C234.544047,41.9828886 241.300296,43 248.536679,43 C249.704395,43 250.859609,42.973515 252,42.9216929 C244.503199,39.7292139 239.73892,34.9445584 239.73892,29.5964753 C239.73892,23.9911201 239.73892,21.6598763 239.73892,20.6903264 L239.595205,24 C239.690129,23.1798455 239.73892,22.3456239 239.73892,21.5 C239.73892,9.62326709 230.113298,0 218.239492,0 L21.4994281,0 C9.62035377,0 3.97903932e-13,9.62587788 3.97903932e-13,21.5 C3.97903932e-13,33.3767329 9.62562184,43 21.4994281,43 L218.239492,43 C222.086594,43 225.696796,41.990416 228.820047,40.2218418 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.91372549   0 0 0 0 0.929411765   0 0 0 0 0.952941176  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(6.000000, 4.000000)">
+            <g id="Group-8">
+                <g id="Oval-1" transform="translate(126.000000, 21.500000) scale(-1, 1) translate(-126.000000, -21.500000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFD138" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <text id="Visuals-for-Distinct" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                <tspan x="34.6888986" y="27">Visuals for Distinct Interactions</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

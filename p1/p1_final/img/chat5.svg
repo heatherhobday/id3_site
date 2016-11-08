@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="322px" height="76px" viewBox="0 0 322 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M277.567652,55.6882693 C284.787212,58.4124335 293.456852,60 302.780795,60 C304.20337,60 305.610714,59.9630442 307,59.8907342 C297.866993,55.4361124 292.062891,48.759849 292.062891,41.2974074 C292.062891,33.4759816 292.062891,30.2230831 292.062891,28.8702229 L291.862289,33.4883721 C291.994785,32.3439704 292.062891,31.1799404 292.062891,30 C292.062891,13.4278145 278.630355,0 262.060483,0 L30.0024081,0 C13.4286092,0 1.42108547e-12,13.4314575 1.42108547e-12,30 C1.42108547e-12,46.5721855 13.4325356,60 30.0024081,60 L262.060483,60 C267.736007,60 273.04271,58.4249624 277.567652,55.6882693 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.941176471   0 0 0 0 0.933333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(7.000000, 4.000000)">
+            <g id="Oval-1" transform="translate(153.500000, 30.000000) scale(-1, 1) translate(-153.500000, -30.000000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#488ED8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="The-UI-and-UX-of-cer" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                <tspan x="47.5029974" y="24.2">The UI and UX of certain apps</tspan>
+                <tspan x="47.5029974" y="43.2">represent  this learnt phenomenon </tspan>
+                <tspan x="271.66706" y="43.2" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">💡</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

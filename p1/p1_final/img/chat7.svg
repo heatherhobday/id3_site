@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="81px" viewBox="0 0 299 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M255.569622,59.7197587 C262.503553,63.0421201 271.021427,65 280.228676,65 C281.545293,65 282.847813,64.9599645 284.133621,64.8816287 C275.68087,60.0557884 270.309077,52.8231697 270.309077,44.738858 C270.309077,36.2656467 270.309077,32.7416734 270.309077,31.2760748 L270.091626,36.2790698 C270.235249,35.0393013 270.309077,33.7782687 270.309077,32.5 C270.309077,14.5467991 255.756181,0 237.804274,0 L32.5048033,0 C14.5569245,0 -6.25277607e-13,14.5507456 -6.25277607e-13,32.5 C-6.25277607e-13,50.4532009 14.5528962,65 32.5048033,65 L237.804274,65 C244.359814,65 250.462965,63.0587744 255.569622,59.7197587 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.941176471   0 0 0 0 0.933333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(7.000000, 4.000000)">
+            <g id="Oval-1" transform="translate(142.066810, 32.500000) scale(-1, 1) translate(-142.066810, -32.500000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#488ED8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="Scroll-down,-I’ll-sh" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                <tspan x="43" y="30">Scroll down, I’ll show you!</tspan>
+                <tspan x="43" y="49">v v v v v v v v v v </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="82px" viewBox="0 0 360 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M313.070878,61.3457445 C321.158969,64.2880899 330.840441,66 341.244805,66 C342.848098,66 344.434225,65.9593486 346,65.8798076 C335.706773,60.9797236 329.165343,53.6358339 329.165343,45.4271481 C329.165343,36.8235797 329.165343,33.2453915 329.165343,31.7572452 L328.944521,36.8372093 C329.090368,35.5783675 329.165343,34.2979344 329.165343,33 C329.165343,14.770596 314.394006,0 296.172638,0 L32.992705,0 C14.7830193,0 3.41060513e-13,14.7746033 3.41060513e-13,33 C3.41060513e-13,51.229404 14.7713372,66 32.992705,66 L296.172638,66 C302.346887,66 308.127192,64.3014463 313.070878,61.3457445 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.91372549   0 0 0 0 0.929411765   0 0 0 0 0.952941176  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" transform="translate(6.000000, 4.000000)">
+            <g id="Group-8">
+                <g id="Oval-1" transform="translate(173.000000, 33.000000) scale(-1, 1) translate(-173.000000, -33.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#488ED8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <text id="An-ephemeral-message" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                <tspan x="44" y="28">An ephemeral message is a message that</tspan>
+                <tspan x="44" y="47">disappears shortly after it has been viewed</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

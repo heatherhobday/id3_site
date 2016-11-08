@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="93px" viewBox="0 0 328 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M280.850094,70.3857164 C288.609093,74.5391538 298.250841,77 308.698335,77 C310.148713,77 311.583562,76.9525734 313,76.8597756 C303.688497,71.1430109 297.770961,62.5751395 297.770961,52.9983394 C297.770961,42.960843 297.770961,38.78629 297.770961,37.0501194 L297.513397,42.9767442 C297.683515,41.5080954 297.770961,40.0142568 297.770961,38.5 C297.770961,17.232362 280.529962,0 259.262113,0 L38.5088479,0 C17.2420019,0 5.68434189e-14,17.2370371 5.68434189e-14,38.5 C5.68434189e-14,59.767638 17.2409985,77 38.5088479,77 L259.262113,77 C267.262177,77 274.692693,74.5608228 280.850089,70.3857195 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.91372549   0 0 0 0 0.929411765   0 0 0 0 0.952941176  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(7.000000, 4.000000)">
+            <g id="Oval-1" transform="translate(156.500000, 38.500000) scale(-1, 1) translate(-156.500000, -38.500000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#488ED8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="This-is-known-as-a-v" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" fill="#FFFFFF">
+                <tspan x="49" y="25">This is known as a visual language, a </tspan>
+                <tspan x="49" y="44">system of communication using visual </tspan>
+                <tspan x="49" y="63">elements</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
